@@ -1,0 +1,240 @@
+{
+  "users": [
+    {
+      "firstName": "Ed",
+      "lastName": "Putans",
+      "phoneNumber": "12341234",
+      "avatar": "https://avatars.dicebear.com/api/avataaars/EdPutans.svg",
+      "id": 1
+    },
+    {
+      "firstName": "Geri",
+      "lastName": "Cupi",
+      "phoneNumber": "123123123123",
+      "avatar": "https://avatars.dicebear.com/api/avataaars/GeriCupi.svg",
+      "id": 2
+    },
+    {
+      "firstName": "Luca",
+      "lastName": "Marcora",
+      "phoneNumber": "123123123",
+      "avatar": "https://avatars.dicebear.com/api/avataaars/LucaMarcora.svg",
+      "id": 3
+    },
+    {
+      "firstName": "Nicolas",
+      "lastName": "Marcora",
+      "phoneNumber": "+696969696969",
+      "avatar": "https://avatars.dicebear.com/api/avataaars/NicolasMarcora.svg",
+      "id": 4
+    },
+    {
+      "firstName": "Rinor",
+      "lastName": "Rama",
+      "phoneNumber": "+696969696969",
+      "avatar": "https://avatars.dicebear.com/api/avataaars/RinorRama.svg",
+      "id": 5
+    },
+    {
+      "firstName": "Artiola",
+      "lastName": "Caka",
+      "phoneNumber": "+696969696969",
+      "avatar": "https://avatars.dicebear.com/api/avataaars/ArtiolaCaka.svg",
+      "id": 6
+    }
+  ],
+  "messages": [
+    {
+      "userId": 1,
+      "messageText": "Hello! 👋",
+      "conversationId": 1,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "messageText": "Yo! 👋",
+      "conversationId": 2,
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "messageText": "Sup?! 🎉",
+      "conversationId": 2,
+      "id": 3
+    },
+    {
+      "userId": 3,
+      "messageText": "How are you?",
+      "conversationId": 3,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "messageText": "All good, and you?",
+      "conversationId": 3,
+      "id": 5
+    },
+    {
+      "userId": 3,
+      "messageText": "Yeah, just chillin",
+      "conversationId": 3,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "messageText": "Hello Nico!",
+      "conversationId": 4,
+      "id": 7
+    },
+    {
+      "userId": 2,
+      "messageText": "Hey Luca, I'm Geri!",
+      "conversationId": 2,
+      "id": 8
+    },
+    {
+      "userId": 3,
+      "messageText": "Hey Geri, what's up?",
+      "conversationId": 2,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "messageText": "kamsdklmaskldm",
+      "conversationId": 1,
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "messageText": "Hello!!!!!!!!!!",
+      "conversationId": 1,
+      "id": 11
+    },
+    {
+      "userId": 1,
+      "messageText": "How are you oday?",
+      "conversationId": 1,
+      "id": 12
+    },
+    {
+      "userId": 1,
+      "messageText": "🧠",
+      "conversationId": 1,
+      "id": 15
+    },
+    {
+      "userId": 2,
+      "messageText": "🤯",
+      "conversationId": 1,
+      "id": 16
+    },
+    {
+      "userId": 2,
+      "messageText": "😄",
+      "conversationId": 1,
+      "id": 20
+    },
+    {
+      "userId": 6,
+      "messageText": "Hello!!!",
+      "conversationId": 13,
+      "id": 21
+    },
+    {
+      "userId": 1,
+      "messageText": "How are you Artiola?",
+      "conversationId": 13,
+      "id": 22
+    },
+    {
+      "userId": 6,
+      "messageText": "All good and you?",
+      "conversationId": 13,
+      "id": 23
+    },
+    {
+      "userId": 6,
+      "messageText": "Hello!",
+      "conversationId": 14,
+      "id": 24
+    },
+    {
+      "userId": 2,
+      "messageText": "HEYYYY",
+      "conversationId": 14,
+      "id": 25
+    }
+  ],
+  "conversations": [
+    {
+      "userId": 1,
+      "participantId": 2,
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "participantId": 3,
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "participantId": 1,
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "participantId": 4,
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "participantId": 2,
+      "id": 5
+    },
+    {
+      "userId": 4,
+      "participantId": 3,
+      "id": 6
+    },
+    {
+      "userId": 5,
+      "participantId": 1,
+      "id": 7
+    },
+    {
+      "userId": 5,
+      "participantId": 4,
+      "id": 8
+    },
+    {
+      "userId": 5,
+      "participantId": 2,
+      "id": 9
+    },
+    {
+      "userId": 5,
+      "participantId": 3,
+      "id": 10
+    },
+    {
+      "userId": 6,
+      "participantId": 4,
+      "id": 11
+    },
+    {
+      "userId": 6,
+      "participantId": 5,
+      "id": 12
+    },
+    {
+      "userId": 6,
+      "participantId": 1,
+      "id": 13
+    },
+    {
+      "userId": 6,
+      "participantId": 2,
+      "id": 14
+    }
+  ]
+}
